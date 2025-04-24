@@ -82,4 +82,8 @@ echo "job end"
 ```
 $ sbatch test_sbatch.sh
 Submitted batch job 114
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 648cfd100a064d5f87d513b03e5c44083c9ba069
